@@ -1,0 +1,46 @@
+html,body{
+  background-color: rgb(173,213,238);
+}
+.row{
+  margin: 0px 0px !important;
+}
+.contend_1{
+    background-color: rgb(2,136,209,0.76);
+    height: 10vh;
+  }
+  #title1{
+    color:white;
+    margin: 0%;
+    border-top: 5%;
+    border-bottom: 5%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder; 
+  }
+  .contend_2{
+    background-color: rgb(173,213,238);
+    padding-top: 5%;
+    height: 100px;
+    width: 100%;
+}
+.contenidoimagnes{
+  margin-top: 0px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  height:160px;
+}
+.textotitulo{
+  position: relative;
+  top: 10px;
+  /*font-family: Georgia, 'Times New Roman', Times, serif;*/
+  font-family: cursive;
+  color: white;
+}
+.foto{
+  width:80%;  
+  height: auto;
+  transition: all 300ms ease 0ms;
+  border: 4px solid transparent; 
+  background-color: rgb(15,66,131);
+}
